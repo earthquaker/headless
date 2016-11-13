@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/earthquaker/headless/issues"
   },
-  "homepage": "https://github.com/earthquaker/headless#readme"
+  "homepage": "https://github.com/earthquaker/headless#readme",
+  "dependencies": {
+    "phantom": "^3.0.3"
+  }
 }
